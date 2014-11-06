@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Vault 2015\Extensions\DataStandard\Vault\addinVault\UseWhereUsed.dll
+C:\ProgramData\Autodesk\Vault 2015\Extensions\DataStandard\Vault\addinVault\UseWhereUsed.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\UseWhereUsed\UseWhereUsed\obj\Debug\UseWhereUsed.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\UseWhereUsed\UseWhereUsed\obj\Debug\UseWhereUsed.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\UseWhereUsed\UseWhereUsed\obj\Debug\UseWhereUsed.pdb

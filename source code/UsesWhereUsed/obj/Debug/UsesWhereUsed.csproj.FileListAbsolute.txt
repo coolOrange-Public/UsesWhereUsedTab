@@ -1,0 +1,10 @@
+C:\ProgramData\Autodesk\Vault 2015\Extensions\DataStandard\Vault\addinVault\UsesWhereUsed.dll
+C:\ProgramData\Autodesk\Vault 2015\Extensions\DataStandard\Vault\addinVault\UsesWhereUsed.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\UseWhereUsed\UseWhereUsed\obj\Debug\UsesWhereUsed.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\UseWhereUsed\UseWhereUsed\obj\Debug\UsesWhereUsed.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\UseWhereUsed\UseWhereUsed\obj\Debug\UsesWhereUsed.pdb
+C:\Program Files\Autodesk\Vault Professional 2015\Explorer\UsesWhereUsed.dll
+C:\Program Files\Autodesk\Vault Professional 2015\Explorer\UsesWhereUsed.pdb
+\\psf\Home\Documents\coolOrange\Dropbox (coolOrange)\Development\Data Standard\UsesWhereUsedTab\source code\UsesWhereUsed\obj\Debug\UsesWhereUsed.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\coolOrange\Dropbox (coolOrange)\Development\Data Standard\UsesWhereUsedTab\source code\UsesWhereUsed\obj\Debug\UsesWhereUsed.dll
+\\psf\Home\Documents\coolOrange\Dropbox (coolOrange)\Development\Data Standard\UsesWhereUsedTab\source code\UsesWhereUsed\obj\Debug\UsesWhereUsed.pdb
